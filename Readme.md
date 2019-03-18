@@ -1,4 +1,4 @@
-# GO SimpleStore
+# Go SimpleStorage
 
 If you are reading this in github be aware this s mirrored from Gitlab @ gitlab.com/tulpenhaendler/simplestore
 
